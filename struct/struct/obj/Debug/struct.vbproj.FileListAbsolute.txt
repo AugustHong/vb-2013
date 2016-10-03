@@ -1,0 +1,10 @@
+C:\Users\偉德\Documents\vb 2013\struct\struct\bin\Debug\struct.exe.config
+C:\Users\偉德\Documents\vb 2013\struct\struct\bin\Debug\struct.exe
+C:\Users\偉德\Documents\vb 2013\struct\struct\bin\Debug\struct.pdb
+C:\Users\偉德\Documents\vb 2013\struct\struct\bin\Debug\struct.xml
+C:\Users\偉德\Documents\vb 2013\struct\struct\obj\Debug\struct.vbprojResolveAssemblyReference.cache
+C:\Users\偉德\Documents\vb 2013\struct\struct\obj\Debug\struct.Resources.resources
+C:\Users\偉德\Documents\vb 2013\struct\struct\obj\Debug\struct.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\struct\struct\obj\Debug\struct.exe
+C:\Users\偉德\Documents\vb 2013\struct\struct\obj\Debug\struct.xml
+C:\Users\偉德\Documents\vb 2013\struct\struct\obj\Debug\struct.pdb
