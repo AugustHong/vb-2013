@@ -1,0 +1,9 @@
+C:\Users\偉德\Documents\vb 2013\struct_and_enum\struct_and_enum\bin\Debug\struct_and_enum.exe.config
+C:\Users\偉德\Documents\vb 2013\struct_and_enum\struct_and_enum\bin\Debug\struct_and_enum.exe
+C:\Users\偉德\Documents\vb 2013\struct_and_enum\struct_and_enum\bin\Debug\struct_and_enum.pdb
+C:\Users\偉德\Documents\vb 2013\struct_and_enum\struct_and_enum\bin\Debug\struct_and_enum.xml
+C:\Users\偉德\Documents\vb 2013\struct_and_enum\struct_and_enum\obj\Debug\struct_and_enum.Resources.resources
+C:\Users\偉德\Documents\vb 2013\struct_and_enum\struct_and_enum\obj\Debug\struct_and_enum.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\struct_and_enum\struct_and_enum\obj\Debug\struct_and_enum.exe
+C:\Users\偉德\Documents\vb 2013\struct_and_enum\struct_and_enum\obj\Debug\struct_and_enum.xml
+C:\Users\偉德\Documents\vb 2013\struct_and_enum\struct_and_enum\obj\Debug\struct_and_enum.pdb
