@@ -1,0 +1,5 @@
+C:\Users\偉德\Documents\vb 2013\random\random\bin\Debug\random.exe.config
+C:\Users\偉德\Documents\vb 2013\random\random\obj\Debug\random.vbprojResolveAssemblyReference.cache
+C:\Users\偉德\Documents\vb 2013\random\random\obj\Debug\random.Resources.resources
+C:\Users\偉德\Documents\vb 2013\random\random\obj\Debug\random.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\random\random\obj\Debug\random.xml
