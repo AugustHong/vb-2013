@@ -1,0 +1,9 @@
+C:\Users\偉德\Documents\vb 2013\array\array\bin\Debug\array.exe.config
+C:\Users\偉德\Documents\vb 2013\array\array\bin\Debug\array.exe
+C:\Users\偉德\Documents\vb 2013\array\array\bin\Debug\array.pdb
+C:\Users\偉德\Documents\vb 2013\array\array\bin\Debug\array.xml
+C:\Users\偉德\Documents\vb 2013\array\array\obj\Debug\array.Resources.resources
+C:\Users\偉德\Documents\vb 2013\array\array\obj\Debug\array.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\array\array\obj\Debug\array.exe
+C:\Users\偉德\Documents\vb 2013\array\array\obj\Debug\array.xml
+C:\Users\偉德\Documents\vb 2013\array\array\obj\Debug\array.pdb
