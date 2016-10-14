@@ -1,0 +1,11 @@
+C:\Users\偉德\Documents\vb 2013\畫圖\畫圖\bin\Debug\畫圖.exe.config
+C:\Users\偉德\Documents\vb 2013\畫圖\畫圖\bin\Debug\畫圖.exe
+C:\Users\偉德\Documents\vb 2013\畫圖\畫圖\bin\Debug\畫圖.pdb
+C:\Users\偉德\Documents\vb 2013\畫圖\畫圖\bin\Debug\畫圖.xml
+C:\Users\偉德\Documents\vb 2013\畫圖\畫圖\obj\Debug\畫圖.vbprojResolveAssemblyReference.cache
+C:\Users\偉德\Documents\vb 2013\畫圖\畫圖\obj\Debug\畫圖.Form1.resources
+C:\Users\偉德\Documents\vb 2013\畫圖\畫圖\obj\Debug\畫圖.Resources.resources
+C:\Users\偉德\Documents\vb 2013\畫圖\畫圖\obj\Debug\畫圖.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\畫圖\畫圖\obj\Debug\畫圖.exe
+C:\Users\偉德\Documents\vb 2013\畫圖\畫圖\obj\Debug\畫圖.xml
+C:\Users\偉德\Documents\vb 2013\畫圖\畫圖\obj\Debug\畫圖.pdb
