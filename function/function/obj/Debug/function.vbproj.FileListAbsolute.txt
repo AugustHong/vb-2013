@@ -1,0 +1,9 @@
+C:\Users\偉德\Documents\vb 2013\function\function\bin\Debug\function.exe.config
+C:\Users\偉德\Documents\vb 2013\function\function\bin\Debug\function.exe
+C:\Users\偉德\Documents\vb 2013\function\function\bin\Debug\function.pdb
+C:\Users\偉德\Documents\vb 2013\function\function\bin\Debug\function.xml
+C:\Users\偉德\Documents\vb 2013\function\function\obj\Debug\function.Resources.resources
+C:\Users\偉德\Documents\vb 2013\function\function\obj\Debug\function.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\function\function\obj\Debug\function.exe
+C:\Users\偉德\Documents\vb 2013\function\function\obj\Debug\function.xml
+C:\Users\偉德\Documents\vb 2013\function\function\obj\Debug\function.pdb
