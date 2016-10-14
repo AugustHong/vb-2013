@@ -1,0 +1,10 @@
+C:\Users\偉德\Documents\vb 2013\split\split\bin\Debug\split.exe.config
+C:\Users\偉德\Documents\vb 2013\split\split\obj\Debug\split.vbprojResolveAssemblyReference.cache
+C:\Users\偉德\Documents\vb 2013\split\split\obj\Debug\split.Resources.resources
+C:\Users\偉德\Documents\vb 2013\split\split\obj\Debug\split.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\split\split\obj\Debug\split.xml
+C:\Users\偉德\Documents\vb 2013\split\split\bin\Debug\split.exe
+C:\Users\偉德\Documents\vb 2013\split\split\bin\Debug\split.pdb
+C:\Users\偉德\Documents\vb 2013\split\split\bin\Debug\split.xml
+C:\Users\偉德\Documents\vb 2013\split\split\obj\Debug\split.exe
+C:\Users\偉德\Documents\vb 2013\split\split\obj\Debug\split.pdb
