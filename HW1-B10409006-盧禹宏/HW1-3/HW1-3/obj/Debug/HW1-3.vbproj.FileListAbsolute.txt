@@ -1,0 +1,10 @@
+C:\Users\偉德\Documents\vb 2013\HW1-B10409006-盧禹宏\HW1-3\HW1-3\bin\Debug\HW1-3.exe.config
+C:\Users\偉德\Documents\vb 2013\HW1-B10409006-盧禹宏\HW1-3\HW1-3\bin\Debug\HW1-3.exe
+C:\Users\偉德\Documents\vb 2013\HW1-B10409006-盧禹宏\HW1-3\HW1-3\bin\Debug\HW1-3.pdb
+C:\Users\偉德\Documents\vb 2013\HW1-B10409006-盧禹宏\HW1-3\HW1-3\bin\Debug\HW1-3.xml
+C:\Users\偉德\Documents\vb 2013\HW1-B10409006-盧禹宏\HW1-3\HW1-3\obj\Debug\HW1-3.vbprojResolveAssemblyReference.cache
+C:\Users\偉德\Documents\vb 2013\HW1-B10409006-盧禹宏\HW1-3\HW1-3\obj\Debug\HW1_3.Resources.resources
+C:\Users\偉德\Documents\vb 2013\HW1-B10409006-盧禹宏\HW1-3\HW1-3\obj\Debug\HW1-3.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\HW1-B10409006-盧禹宏\HW1-3\HW1-3\obj\Debug\HW1-3.exe
+C:\Users\偉德\Documents\vb 2013\HW1-B10409006-盧禹宏\HW1-3\HW1-3\obj\Debug\HW1-3.xml
+C:\Users\偉德\Documents\vb 2013\HW1-B10409006-盧禹宏\HW1-3\HW1-3\obj\Debug\HW1-3.pdb
