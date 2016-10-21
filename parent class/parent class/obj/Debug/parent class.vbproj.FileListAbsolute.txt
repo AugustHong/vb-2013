@@ -1,0 +1,9 @@
+C:\Users\偉德\Documents\vb 2013\parent class\parent class\bin\Debug\parent class.exe.config
+C:\Users\偉德\Documents\vb 2013\parent class\parent class\bin\Debug\parent class.exe
+C:\Users\偉德\Documents\vb 2013\parent class\parent class\bin\Debug\parent class.pdb
+C:\Users\偉德\Documents\vb 2013\parent class\parent class\bin\Debug\parent class.xml
+C:\Users\偉德\Documents\vb 2013\parent class\parent class\obj\Debug\parent_class.Resources.resources
+C:\Users\偉德\Documents\vb 2013\parent class\parent class\obj\Debug\parent class.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\parent class\parent class\obj\Debug\parent class.exe
+C:\Users\偉德\Documents\vb 2013\parent class\parent class\obj\Debug\parent class.xml
+C:\Users\偉德\Documents\vb 2013\parent class\parent class\obj\Debug\parent class.pdb
