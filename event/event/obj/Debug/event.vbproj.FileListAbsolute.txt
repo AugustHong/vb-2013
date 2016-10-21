@@ -1,0 +1,9 @@
+C:\Users\偉德\Documents\vb 2013\event\event\bin\Debug\event.exe.config
+C:\Users\偉德\Documents\vb 2013\event\event\bin\Debug\event.exe
+C:\Users\偉德\Documents\vb 2013\event\event\bin\Debug\event.pdb
+C:\Users\偉德\Documents\vb 2013\event\event\bin\Debug\event.xml
+C:\Users\偉德\Documents\vb 2013\event\event\obj\Debug\event.Resources.resources
+C:\Users\偉德\Documents\vb 2013\event\event\obj\Debug\event.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\event\event\obj\Debug\event.exe
+C:\Users\偉德\Documents\vb 2013\event\event\obj\Debug\event.xml
+C:\Users\偉德\Documents\vb 2013\event\event\obj\Debug\event.pdb
