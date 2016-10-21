@@ -1,0 +1,10 @@
+C:\Users\偉德\Documents\vb 2013\class property\class property\bin\Debug\class property.exe.config
+C:\Users\偉德\Documents\vb 2013\class property\class property\bin\Debug\class property.exe
+C:\Users\偉德\Documents\vb 2013\class property\class property\bin\Debug\class property.pdb
+C:\Users\偉德\Documents\vb 2013\class property\class property\bin\Debug\class property.xml
+C:\Users\偉德\Documents\vb 2013\class property\class property\obj\Debug\class property.vbprojResolveAssemblyReference.cache
+C:\Users\偉德\Documents\vb 2013\class property\class property\obj\Debug\class_property.Resources.resources
+C:\Users\偉德\Documents\vb 2013\class property\class property\obj\Debug\class property.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\class property\class property\obj\Debug\class property.exe
+C:\Users\偉德\Documents\vb 2013\class property\class property\obj\Debug\class property.xml
+C:\Users\偉德\Documents\vb 2013\class property\class property\obj\Debug\class property.pdb
