@@ -1,0 +1,9 @@
+C:\Users\偉德\Documents\vb 2013\directoryinfo\directoryinfo\bin\Debug\directoryinfo.exe.config
+C:\Users\偉德\Documents\vb 2013\directoryinfo\directoryinfo\bin\Debug\directoryinfo.exe
+C:\Users\偉德\Documents\vb 2013\directoryinfo\directoryinfo\bin\Debug\directoryinfo.pdb
+C:\Users\偉德\Documents\vb 2013\directoryinfo\directoryinfo\bin\Debug\directoryinfo.xml
+C:\Users\偉德\Documents\vb 2013\directoryinfo\directoryinfo\obj\Debug\directoryinfo.Resources.resources
+C:\Users\偉德\Documents\vb 2013\directoryinfo\directoryinfo\obj\Debug\directoryinfo.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\directoryinfo\directoryinfo\obj\Debug\directoryinfo.exe
+C:\Users\偉德\Documents\vb 2013\directoryinfo\directoryinfo\obj\Debug\directoryinfo.xml
+C:\Users\偉德\Documents\vb 2013\directoryinfo\directoryinfo\obj\Debug\directoryinfo.pdb
