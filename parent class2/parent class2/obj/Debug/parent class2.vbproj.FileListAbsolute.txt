@@ -1,0 +1,10 @@
+C:\Users\偉德\Documents\vb 2013\parent class2\parent class2\bin\Debug\parent class2.exe.config
+C:\Users\偉德\Documents\vb 2013\parent class2\parent class2\bin\Debug\parent class2.exe
+C:\Users\偉德\Documents\vb 2013\parent class2\parent class2\bin\Debug\parent class2.pdb
+C:\Users\偉德\Documents\vb 2013\parent class2\parent class2\bin\Debug\parent class2.xml
+C:\Users\偉德\Documents\vb 2013\parent class2\parent class2\obj\Debug\parent class2.vbprojResolveAssemblyReference.cache
+C:\Users\偉德\Documents\vb 2013\parent class2\parent class2\obj\Debug\parent_class2.Resources.resources
+C:\Users\偉德\Documents\vb 2013\parent class2\parent class2\obj\Debug\parent class2.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\parent class2\parent class2\obj\Debug\parent class2.exe
+C:\Users\偉德\Documents\vb 2013\parent class2\parent class2\obj\Debug\parent class2.xml
+C:\Users\偉德\Documents\vb 2013\parent class2\parent class2\obj\Debug\parent class2.pdb
