@@ -1,0 +1,9 @@
+C:\Users\偉德\Documents\vb 2013\interfacee\interfacee\bin\Debug\interfacee.exe.config
+C:\Users\偉德\Documents\vb 2013\interfacee\interfacee\bin\Debug\interfacee.exe
+C:\Users\偉德\Documents\vb 2013\interfacee\interfacee\bin\Debug\interfacee.pdb
+C:\Users\偉德\Documents\vb 2013\interfacee\interfacee\bin\Debug\interfacee.xml
+C:\Users\偉德\Documents\vb 2013\interfacee\interfacee\obj\Debug\interfacee.Resources.resources
+C:\Users\偉德\Documents\vb 2013\interfacee\interfacee\obj\Debug\interfacee.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\interfacee\interfacee\obj\Debug\interfacee.exe
+C:\Users\偉德\Documents\vb 2013\interfacee\interfacee\obj\Debug\interfacee.xml
+C:\Users\偉德\Documents\vb 2013\interfacee\interfacee\obj\Debug\interfacee.pdb
