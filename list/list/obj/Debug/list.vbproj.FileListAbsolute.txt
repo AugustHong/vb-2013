@@ -1,0 +1,9 @@
+C:\Users\偉德\Documents\vb 2013\list\list\bin\Debug\list.exe.config
+C:\Users\偉德\Documents\vb 2013\list\list\bin\Debug\list.exe
+C:\Users\偉德\Documents\vb 2013\list\list\bin\Debug\list.pdb
+C:\Users\偉德\Documents\vb 2013\list\list\bin\Debug\list.xml
+C:\Users\偉德\Documents\vb 2013\list\list\obj\Debug\list.Resources.resources
+C:\Users\偉德\Documents\vb 2013\list\list\obj\Debug\list.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\list\list\obj\Debug\list.exe
+C:\Users\偉德\Documents\vb 2013\list\list\obj\Debug\list.xml
+C:\Users\偉德\Documents\vb 2013\list\list\obj\Debug\list.pdb
