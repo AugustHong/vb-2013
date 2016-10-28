@@ -1,0 +1,9 @@
+C:\Users\偉德\Documents\vb 2013\delegate\delegate\bin\Debug\delegate.exe.config
+C:\Users\偉德\Documents\vb 2013\delegate\delegate\bin\Debug\delegate.exe
+C:\Users\偉德\Documents\vb 2013\delegate\delegate\bin\Debug\delegate.pdb
+C:\Users\偉德\Documents\vb 2013\delegate\delegate\bin\Debug\delegate.xml
+C:\Users\偉德\Documents\vb 2013\delegate\delegate\obj\Debug\delegate.Resources.resources
+C:\Users\偉德\Documents\vb 2013\delegate\delegate\obj\Debug\delegate.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\delegate\delegate\obj\Debug\delegate.exe
+C:\Users\偉德\Documents\vb 2013\delegate\delegate\obj\Debug\delegate.xml
+C:\Users\偉德\Documents\vb 2013\delegate\delegate\obj\Debug\delegate.pdb
