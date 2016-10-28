@@ -1,0 +1,10 @@
+C:\Users\偉德\Documents\vb 2013\exception\exception\bin\Debug\exception.exe.config
+C:\Users\偉德\Documents\vb 2013\exception\exception\bin\Debug\exception.exe
+C:\Users\偉德\Documents\vb 2013\exception\exception\bin\Debug\exception.pdb
+C:\Users\偉德\Documents\vb 2013\exception\exception\bin\Debug\exception.xml
+C:\Users\偉德\Documents\vb 2013\exception\exception\obj\Debug\exception.vbprojResolveAssemblyReference.cache
+C:\Users\偉德\Documents\vb 2013\exception\exception\obj\Debug\exception.Resources.resources
+C:\Users\偉德\Documents\vb 2013\exception\exception\obj\Debug\exception.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\exception\exception\obj\Debug\exception.exe
+C:\Users\偉德\Documents\vb 2013\exception\exception\obj\Debug\exception.xml
+C:\Users\偉德\Documents\vb 2013\exception\exception\obj\Debug\exception.pdb
