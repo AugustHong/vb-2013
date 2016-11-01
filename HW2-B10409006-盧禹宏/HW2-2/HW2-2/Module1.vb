@@ -18,33 +18,40 @@
     End Class
 
     Class Student
-        Public Sid$, Name$, High#, Weight#
+        Public Sid(100) As String, Name(100) As String, High(100) As Double, Weight(100) As Double
         Public count% = 0
 
-        Public WriteOnly Property SetData() As String
-            Set(s As String)
-                Dim y() = Microsoft.VisualBasic.Split(s, " ")
-                Sid = y(0)
-                Name = y(1)
-                High = Val(y(2)) / 100
-                Weight = Val(y(3))
-                If High < 0 Or Weight < 0 Then Throw New SetException
-                If ((Weight / (High * High)) > 24) Or ((Weight / (High * High)) < 18.5) Then Throw New BMIException
-                count = count + 1
-            End Set
-        End Property
+        Public Sub SetData(s As String, n As String, h As Double, w As Double)
+            Dim h2# = h / 100
+            If h < 0 Or w < 0 Then Throw New SetException
+            If ((w / (h2 * h2)) > 24) Or ((w / (h2 * h2)) < 18.5) Then Throw New BMIException
+            Sid(count) = s
+            Name(count) = n
+            High(count) = h
+            Weight(count) = w
+            count = count + 1
+        End Sub
     End Class
 
     Sub start()
-        Dim x$
         Dim stu As New Student
         While True
             Console.WriteLine("請輸入 學號、姓名、身高、體重(中間用一格空白)  如要離開則輸入exit")
-            x = Console.ReadLine()
+            Dim s() = Microsoft.VisualBasic.Split(Console.ReadLine(), " ")
 
-            If x = "exit" Then Console.WriteLine("總人數是：{0}", stu.count) : Exit While
+            If UBound(s) = 0 And s(0) = "exit" Then
+                Console.WriteLine("總人數：{0}", stu.count)
+                For i = 0 To stu.count - 1
+                    Console.WriteLine("{0} {1} {2} {3}", stu.Sid(i), stu.Name(i), stu.High(i), stu.Weight(i))
+                Next
+                Exit While
+            End If
 
-            stu.SetData = x
+            If UBound(s) = 3 Then
+                stu.SetData(s(0), s(1), Val(s(2)), Val(s(3)))
+            Else
+                Console.WriteLine("值沒輸入4個")
+            End If
         End While
     End Sub
     Sub Main()
