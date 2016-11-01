@@ -37,8 +37,6 @@
         Inherits Shape
 
         Public Overrides Sub Area()
-            Dim a%
-            a = (t1 + t2 + t3) / 2
             Console.WriteLine("rectangle area is {0}", high * width)
         End Sub
 
