@@ -1,0 +1,10 @@
+C:\Users\偉德\Documents\vb 2013\read and write file\read and write file\bin\Debug\read and write file.exe.config
+C:\Users\偉德\Documents\vb 2013\read and write file\read and write file\bin\Debug\read and write file.exe
+C:\Users\偉德\Documents\vb 2013\read and write file\read and write file\bin\Debug\read and write file.pdb
+C:\Users\偉德\Documents\vb 2013\read and write file\read and write file\bin\Debug\read and write file.xml
+C:\Users\偉德\Documents\vb 2013\read and write file\read and write file\obj\Debug\read and write file.vbprojResolveAssemblyReference.cache
+C:\Users\偉德\Documents\vb 2013\read and write file\read and write file\obj\Debug\read_and_write_file.Resources.resources
+C:\Users\偉德\Documents\vb 2013\read and write file\read and write file\obj\Debug\read and write file.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\read and write file\read and write file\obj\Debug\read and write file.exe
+C:\Users\偉德\Documents\vb 2013\read and write file\read and write file\obj\Debug\read and write file.xml
+C:\Users\偉德\Documents\vb 2013\read and write file\read and write file\obj\Debug\read and write file.pdb
