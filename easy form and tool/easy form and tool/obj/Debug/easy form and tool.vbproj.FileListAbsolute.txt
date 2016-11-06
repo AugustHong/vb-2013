@@ -1,0 +1,11 @@
+C:\Users\偉德\Documents\vb 2013\easy form and tool\easy form and tool\bin\Debug\easy form and tool.exe.config
+C:\Users\偉德\Documents\vb 2013\easy form and tool\easy form and tool\bin\Debug\easy form and tool.exe
+C:\Users\偉德\Documents\vb 2013\easy form and tool\easy form and tool\bin\Debug\easy form and tool.pdb
+C:\Users\偉德\Documents\vb 2013\easy form and tool\easy form and tool\bin\Debug\easy form and tool.xml
+C:\Users\偉德\Documents\vb 2013\easy form and tool\easy form and tool\obj\Debug\easy form and tool.vbprojResolveAssemblyReference.cache
+C:\Users\偉德\Documents\vb 2013\easy form and tool\easy form and tool\obj\Debug\easy_form_and_tool.Form1.resources
+C:\Users\偉德\Documents\vb 2013\easy form and tool\easy form and tool\obj\Debug\easy_form_and_tool.Resources.resources
+C:\Users\偉德\Documents\vb 2013\easy form and tool\easy form and tool\obj\Debug\easy form and tool.vbproj.GenerateResource.Cache
+C:\Users\偉德\Documents\vb 2013\easy form and tool\easy form and tool\obj\Debug\easy form and tool.exe
+C:\Users\偉德\Documents\vb 2013\easy form and tool\easy form and tool\obj\Debug\easy form and tool.xml
+C:\Users\偉德\Documents\vb 2013\easy form and tool\easy form and tool\obj\Debug\easy form and tool.pdb
