@@ -1,0 +1,23 @@
+C:\vb2010\ch09\TextBoxDemo\bin\Debug\TextBoxDemo.exe
+C:\vb2010\ch09\TextBoxDemo\bin\Debug\TextBoxDemo.pdb
+C:\vb2010\ch09\TextBoxDemo\bin\Debug\TextBoxDemo.xml
+C:\vb2010\ch09\TextBoxDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vb2010\ch09\TextBoxDemo\obj\x86\Debug\TextBoxDemo.Form1.resources
+C:\vb2010\ch09\TextBoxDemo\obj\x86\Debug\TextBoxDemo.Resources.resources
+C:\vb2010\ch09\TextBoxDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vb2010\ch09\TextBoxDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vb2010\ch09\TextBoxDemo\obj\x86\Debug\TextBoxDemo.exe
+C:\vb2010\ch09\TextBoxDemo\obj\x86\Debug\TextBoxDemo.xml
+C:\vb2010\ch09\TextBoxDemo\obj\x86\Debug\TextBoxDemo.pdb
+C:\vb2013\ch10\TextBoxDemo\obj\x86\Debug\TextBoxDemo.exe
+C:\vb2013\ch10\TextBoxDemo\obj\x86\Debug\TextBoxDemo.xml
+C:\vb2013\ch10\TextBoxDemo\obj\x86\Debug\TextBoxDemo.pdb
+C:\vb2013\ch10\TextBoxDemo\bin\Debug\TextBoxDemo.exe
+C:\vb2013\ch10\TextBoxDemo\bin\Debug\TextBoxDemo.pdb
+C:\vb2013\ch10\TextBoxDemo\bin\Debug\TextBoxDemo.xml
+C:\vb2013\ch10\TextBoxDemo\obj\x86\Debug\TextBoxDemo.Form1.resources
+C:\vb2013\ch10\TextBoxDemo\obj\x86\Debug\TextBoxDemo.Resources.resources
+C:\vb2013\ch10\TextBoxDemo\obj\x86\Debug\TextBoxDemo.vbproj.GenerateResource.Cache
+C:\Users\偉德\Downloads\Sample Code (ch08-ch10)\ch10\TextBoxDemo\obj\x86\Debug\TextBoxDemo.exe
+C:\Users\偉德\Downloads\Sample Code (ch08-ch10)\ch10\TextBoxDemo\obj\x86\Debug\TextBoxDemo.xml
+C:\Users\偉德\Downloads\Sample Code (ch08-ch10)\ch10\TextBoxDemo\obj\x86\Debug\TextBoxDemo.pdb
