@@ -1,0 +1,23 @@
+C:\vb2010\ch09\ButtonDemo\bin\Debug\ButtonDemo.exe
+C:\vb2010\ch09\ButtonDemo\bin\Debug\ButtonDemo.pdb
+C:\vb2010\ch09\ButtonDemo\bin\Debug\ButtonDemo.xml
+C:\vb2010\ch09\ButtonDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vb2010\ch09\ButtonDemo\obj\x86\Debug\ButtonDemo.Form1.resources
+C:\vb2010\ch09\ButtonDemo\obj\x86\Debug\ButtonDemo.Resources.resources
+C:\vb2010\ch09\ButtonDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vb2010\ch09\ButtonDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vb2010\ch09\ButtonDemo\obj\x86\Debug\ButtonDemo.exe
+C:\vb2010\ch09\ButtonDemo\obj\x86\Debug\ButtonDemo.xml
+C:\vb2010\ch09\ButtonDemo\obj\x86\Debug\ButtonDemo.pdb
+C:\vb2013\ch10\ButtonDemo\obj\x86\Debug\ButtonDemo.exe
+C:\vb2013\ch10\ButtonDemo\obj\x86\Debug\ButtonDemo.xml
+C:\vb2013\ch10\ButtonDemo\obj\x86\Debug\ButtonDemo.pdb
+C:\vb2013\ch10\ButtonDemo\bin\Debug\ButtonDemo.exe
+C:\vb2013\ch10\ButtonDemo\bin\Debug\ButtonDemo.pdb
+C:\vb2013\ch10\ButtonDemo\bin\Debug\ButtonDemo.xml
+C:\vb2013\ch10\ButtonDemo\obj\x86\Debug\ButtonDemo.Form1.resources
+C:\vb2013\ch10\ButtonDemo\obj\x86\Debug\ButtonDemo.Resources.resources
+C:\vb2013\ch10\ButtonDemo\obj\x86\Debug\ButtonDemo.vbproj.GenerateResource.Cache
+C:\Users\偉德\Downloads\Sample Code (ch08-ch10)\ch10\ButtonDemo\obj\x86\Debug\ButtonDemo.exe
+C:\Users\偉德\Downloads\Sample Code (ch08-ch10)\ch10\ButtonDemo\obj\x86\Debug\ButtonDemo.xml
+C:\Users\偉德\Downloads\Sample Code (ch08-ch10)\ch10\ButtonDemo\obj\x86\Debug\ButtonDemo.pdb
