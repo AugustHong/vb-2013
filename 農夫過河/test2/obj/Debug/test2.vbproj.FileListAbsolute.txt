@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\test2\test2\bin\Debug\test2.exe.config
+C:\Users\user\Desktop\test2\test2\bin\Debug\test2.exe
+C:\Users\user\Desktop\test2\test2\bin\Debug\test2.pdb
+C:\Users\user\Desktop\test2\test2\bin\Debug\test2.xml
+C:\Users\user\Desktop\test2\test2\obj\Debug\test2.Form1.resources
+C:\Users\user\Desktop\test2\test2\obj\Debug\test2.Resources.resources
+C:\Users\user\Desktop\test2\test2\obj\Debug\test2.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\test2\test2\obj\Debug\test2.exe
+C:\Users\user\Desktop\test2\test2\obj\Debug\test2.xml
+C:\Users\user\Desktop\test2\test2\obj\Debug\test2.pdb
+F:\農夫過河\test2\bin\Debug\test2.exe.config
+F:\農夫過河\test2\obj\Debug\test2.exe
+F:\農夫過河\test2\obj\Debug\test2.xml
+F:\農夫過河\test2\obj\Debug\test2.pdb
