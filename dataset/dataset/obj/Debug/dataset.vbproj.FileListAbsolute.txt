@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\dataset\dataset\bin\Debug\dataset.exe.config
+C:\Users\user\Desktop\dataset\dataset\bin\Debug\dataset.exe
+C:\Users\user\Desktop\dataset\dataset\bin\Debug\dataset.pdb
+C:\Users\user\Desktop\dataset\dataset\bin\Debug\dataset.xml
+C:\Users\user\Desktop\dataset\dataset\obj\Debug\dataset.Form1.resources
+C:\Users\user\Desktop\dataset\dataset\obj\Debug\dataset.Resources.resources
+C:\Users\user\Desktop\dataset\dataset\obj\Debug\dataset.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\dataset\dataset\obj\Debug\dataset.exe
+C:\Users\user\Desktop\dataset\dataset\obj\Debug\dataset.xml
+C:\Users\user\Desktop\dataset\dataset\obj\Debug\dataset.pdb
