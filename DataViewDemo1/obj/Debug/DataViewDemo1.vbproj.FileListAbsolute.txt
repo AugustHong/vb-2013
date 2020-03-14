@@ -1,0 +1,10 @@
+C:\vb2013\ch18\DataViewDemo1\bin\Debug\DataViewDemo1.exe.config
+C:\vb2013\ch18\DataViewDemo1\bin\Debug\DataViewDemo1.exe
+C:\vb2013\ch18\DataViewDemo1\bin\Debug\DataViewDemo1.pdb
+C:\vb2013\ch18\DataViewDemo1\bin\Debug\DataViewDemo1.xml
+C:\vb2013\ch18\DataViewDemo1\obj\Debug\DataViewDemo1.Form1.resources
+C:\vb2013\ch18\DataViewDemo1\obj\Debug\DataViewDemo1.Resources.resources
+C:\vb2013\ch18\DataViewDemo1\obj\Debug\DataViewDemo1.vbproj.GenerateResource.Cache
+C:\vb2013\ch18\DataViewDemo1\obj\Debug\DataViewDemo1.exe
+C:\vb2013\ch18\DataViewDemo1\obj\Debug\DataViewDemo1.xml
+C:\vb2013\ch18\DataViewDemo1\obj\Debug\DataViewDemo1.pdb
