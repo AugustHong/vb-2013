@@ -1,0 +1,10 @@
+C:\vb2013\ch18\DataBindingDemo1\bin\Debug\DataBindingDemo1.exe.config
+C:\vb2013\ch18\DataBindingDemo1\bin\Debug\DataBindingDemo1.exe
+C:\vb2013\ch18\DataBindingDemo1\bin\Debug\DataBindingDemo1.pdb
+C:\vb2013\ch18\DataBindingDemo1\bin\Debug\DataBindingDemo1.xml
+C:\vb2013\ch18\DataBindingDemo1\obj\Debug\DataBindingDemo1.Form1.resources
+C:\vb2013\ch18\DataBindingDemo1\obj\Debug\DataBindingDemo1.Resources.resources
+C:\vb2013\ch18\DataBindingDemo1\obj\Debug\DataBindingDemo1.vbproj.GenerateResource.Cache
+C:\vb2013\ch18\DataBindingDemo1\obj\Debug\DataBindingDemo1.exe
+C:\vb2013\ch18\DataBindingDemo1\obj\Debug\DataBindingDemo1.xml
+C:\vb2013\ch18\DataBindingDemo1\obj\Debug\DataBindingDemo1.pdb
